@@ -28,4 +28,4 @@
   <img align="right" height="100" width="100" alt="jovem programando" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif"/>
 </div>
 
-![Snake animation](https://github.com/denycelestino/denycelestino/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Kriptotech/Kriptotech/blob/output/github-contribution-grid-snake.svg)
