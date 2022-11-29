@@ -8,7 +8,7 @@
 
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:kriptotech2022@@gmail.com)
 
-![Deny GitHub stats](https://github-readme-stats.vercel.app/api?username=kriptotech&show_icons=true&theme=radical)
+![Deny GitHub stats](https://github-readme-stats.vercel.app/api?username=Kriptotech&show_icons=true&theme=radical)
 
 ## kritptotech responsible github
 
