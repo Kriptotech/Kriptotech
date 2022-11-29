@@ -6,7 +6,7 @@
 - 🌱 we are always learning.
 - 💞️ we love technology, coffee and applying knowledge to solve problems.
 
-[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kriptotech2022@@gmail.com)
+[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:kriptotech2022@@gmail.com)
 
 ![Deny GitHub stats](https://github-readme-stats.vercel.app/api?username=kriptotech&show_icons=true&theme=radical)
 
