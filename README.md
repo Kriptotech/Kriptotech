@@ -2,7 +2,7 @@
 
 .
 
-- 👀 we are currently working with Mobile and web skills.
+- 👀 we are currently working with Mobile and web projects.
 - 🌱 we are always learning.
 - 💞️ we love technology, coffee and applying knowledge to solve problems.
 
