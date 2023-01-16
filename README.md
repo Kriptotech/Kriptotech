@@ -1,4 +1,4 @@
-### 👋 Kripto tech is a github of collective projects under the domain of Delfim Celestino & Eufrasio Joao
+### 👋 Kripto tech is a github of collective projects under the domain of Delfim Celestino, Lucas Alberto & Eufrasio Joao
 
 .
 
